@@ -1,0 +1,3 @@
+[submodule "lib/calm"]
+	path = lib/calm
+	url = git@github.com:chipot/calm-containers.git
